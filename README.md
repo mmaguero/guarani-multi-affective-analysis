@@ -4,8 +4,15 @@ Multidimensional Affective Analysis for Guarani/Jopara: emotion, humor and offen
 ## Corpora
 (forthcoming)
 
-## Baselines
-(forthcoming)
+## Base models (LLMs to fine-tuned)
+- From scratch (trained on Guarani Wiki data):
+    - https://huggingface.co/mmaguero/gn-bert-tiny-cased
+    - https://huggingface.co/mmaguero/gn-bert-small-cased
+    - https://huggingface.co/mmaguero/gn-bert-base-cased
+    - https://huggingface.co/mmaguero/gn-bert-large-cased
+- Continuously pre-trained (or pre-fine-tuned, also trained on Wiki data):
+    - https://huggingface.co/mmaguero/multilingual-bert-gn-base-cased
+    - https://huggingface.co/mmaguero/beto-gn-base-cased
 
 ## How cite?
 
