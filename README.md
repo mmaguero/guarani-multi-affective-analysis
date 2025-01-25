@@ -2,7 +2,10 @@
 Multidimensional Affective Analysis for Guarani/Jopara: emotion, humor and offense.
 
 ## Corpora
-(forthcoming)
+Affect dimensions (tweets primarily written in Guarani):
+- Emotion-recognition: https://huggingface.co/datasets/mmaguero/gn-emotion-recognition
+- Humor-detection: https://huggingface.co/datasets/mmaguero/gn-humor-detection
+- Offensive-language-identifcation: https://huggingface.co/datasets/mmaguero/gn-offensive-language-identifcation
 
 ## Base models (LLMs to fine-tune)
 - From scratch (trained on Guarani Wiki data):
