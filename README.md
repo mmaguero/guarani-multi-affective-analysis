@@ -20,7 +20,7 @@ Affect dimensions (tweets primarily written in Guarani):
 ## Baselines notebooks
 
 - Bert-based models (fine-tuned with our above base models): https://colab.research.google.com/drive/1cjtykOqGz7B74yX452k5T0MbZmjtdpYc
-- NCRFpp-based models (traned with https://github.com/jiesutd/NCRFpp library): https://colab.research.google.com/drive/1kzdxn0cdg7_bp6hSpAx3I8Pw9vul-8IM
+- NCRFpp-based models (trained with https://github.com/jiesutd/NCRFpp library): https://colab.research.google.com/drive/1kzdxn0cdg7_bp6hSpAx3I8Pw9vul-8IM
 
 
 ## How cite?
@@ -32,7 +32,7 @@ Affect dimensions (tweets primarily written in Guarani):
   journal={Cognitive Computation},
   year={2023},
   publisher={Springer},
-  notes={Forthcoming}
+  notes={https://link.springer.com/article/10.1007/s12559-023-10165-0#citeas}
 }
 ```
 
